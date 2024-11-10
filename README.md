@@ -6,7 +6,7 @@ Disclaimer:
 
 A network protocol analyzer (packet sniffer) is a tool designed to capture and analyze data traffic within a network. Network protocol analyzers help security analysts examine and understand the network traffic flows.
 
-<img src="" width="600" />
+<img src="https://github.com/melaniedaniel7/Research-network-protocol-analyzers/blob/92e9e99945c01951febb2fedd8d2e10b2e4a40c4/network%20protocol%20analyzers.png" width="800" />
 
 ### Wireshark
 - What software or equipment is required to access and use the tool? Is the tool open-source or proprietary?
